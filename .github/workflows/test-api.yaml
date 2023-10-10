@@ -1,4 +1,3 @@
-
 name: Automated API tests using Postman CLI
 
 on: push
